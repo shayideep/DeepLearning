@@ -1,10 +1,19 @@
 # DeepLearning
 Bacteria features prediction using CRNA (Convolutional Regression Neural Network) 
+
+
 Technical Stack: Python3, Keras, Pandas, Numpy, TensorFlow, 
  
 Install the following packages : 
  
-• numpy • pandas • xlrd • cv2 • tensorflow • keras • re • json 
+• numpy 
+• pandas
+• xlrd 
+• cv2 
+• tensorflow 
+• keras 
+• re 
+• json 
  
 Command used to evaluate the  model : 
  
